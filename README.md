@@ -1,7 +1,6 @@
 <h1>Olá, eu sou Leonardo Garcia Hartmann</h1>
 <p>-💻Atualmente Trabalho como Suporte.</p>
 <p>-📖Estudante de Analise e Desenvolvimento de Sistemas.</p>
-<p>-😄Pronouns: ele/dele</p>
 -📨<a href="mailto:leonardo.hhartmann@gmail.com">leonardo.hhartmann@gmail.com</a>
 
 <h2>Eae Pessoal!</h2>
