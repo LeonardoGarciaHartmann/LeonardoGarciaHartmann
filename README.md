@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Leonardo Garcia Hartmann</h1>
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
 <p>-💻Atualmente Trabalho como Suporte.</p>
 <p>-📖Estudante de Analise e Desenvolvimento de Sistemas.</p>
