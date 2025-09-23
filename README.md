@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Web`**
 
-<p>-💻Atualmente Trabalho como Suporte.</p>
-<p>-📖Estudante de Analise e Desenvolvimento de Sistemas.</p>
+<p>-💻Suporte ao Usuário de Tecnologia.</p>
+<p>-📖Formado em Análise e Desenvolvimento de Sistemas.</p>
 -📨<a href="mailto:leonardo.hhartmann@gmail.com">leonardo.hhartmann@gmail.com</a>
 
 <h2>Eae Pessoal!</h2>
-Me chamo Leonardo, tenho 25 anos e sou do Rio Grande do Sul. Atualmente sou estudante de Analise e Desenvolvimento de Sistemas na UniRitter. Sou uma pessoa que sempre busca novos conhecimentos e amo tecnologia.
+<p>Muito prazer a todos, sou uma pessoa empenhada e apaixonada pelo autodesenvovimento, gosto de desafios e sou uma pessoa com boa comunicação, também gosto de jogos e muito da cultura geek, atualmente meu foco vem sendo projetos pessoais!</p>
 <hr/>
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGarciaHartmann&show_icons=true&theme=radical"/> <br/>
