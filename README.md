@@ -11,5 +11,5 @@
 <hr/>
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGarciaHartmann&show_icons=true&theme=radical"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGarciaHartmann&layout=compact&show_icons=true&theme=radical"/> 
+  <img heigth="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGarciaHartmann&layout=compact&show_icons=true&theme=radical"/> 
 </div>
