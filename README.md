@@ -1,15 +1,45 @@
-<h1>Olá, eu sou Leonardo Garcia Hartmann</h1>
+# 👨🏼‍💻 Leonardo Hartmann
+***
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Full Stack`**
 
-<p>-💻Suporte ao Usuário de Tecnologia.</p>
-<p>-📖Formado em Análise e Desenvolvimento de Sistemas.</p>
--📨<a href="mailto:leonardo.hhartmann@gmail.com">leonardo.hhartmann@gmail.com</a>
+Profissional formado em Análise e Desenvolvimento de Sistemas, dei inicio também a uma Pós-Graduação em Desenvolvimentos Full Stack, atualmente tenho minha atuação voltada à área de tecnologia e suporte a sistemas. 
 
-<h2>Eae Pessoal!</h2>
-<p>Muito prazer a todos, sou uma pessoa empenhada e apaixonada pelo autodesenvovimento, gosto de desafios e sou uma pessoa com boa comunicação, também gosto de jogos e muito da cultura geek, atualmente meu foco vem sendo projetos pessoais!</p>
-<hr/>
-<div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGarciaHartmann&show_icons=true&theme=radical"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGarciaHartmann&layout=compact&show_icons=true&theme=radical"/> 
-</div>
+***
+
+### 🤖 Linguagens e Tecnologias
+
+<div align="center">
+  <img
+    alt="HTML"
+    title="HTML"
+    width="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+  />
+  <img
+    alt="CSS"
+    title="CSS"
+    width="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+  />
+  <img
+    alt="CSS"
+    title="CSS"
+    width="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+    />
+  <img
+    alt="CSS"
+    title="CSS"
+    width="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+    />     
+<img
+    alt="CSS"
+    title="CSS"
+    width="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"     
+    />             
+</div>   
+           
+          
