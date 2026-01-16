@@ -6,9 +6,7 @@
 Profissional formado em Análise e Desenvolvimento de Sistemas, dei inicio também a uma Pós-Graduação em Desenvolvimentos Full Stack, atualmente tenho minha atuação voltada à área de tecnologia e suporte a sistemas. 
 
 ***
-<div aling='center'>
 ### 🤖 Linguagens e Tecnologias
-</div>
 
 <div align="center">
   <img
