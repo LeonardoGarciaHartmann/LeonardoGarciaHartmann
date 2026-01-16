@@ -8,7 +8,7 @@ Profissional formado em Análise e Desenvolvimento de Sistemas, dei inicio tamb�
 ***
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<div align="left">
   <img
     alt="HTML"
     title="HTML"
