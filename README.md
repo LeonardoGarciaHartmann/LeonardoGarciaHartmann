@@ -1,10 +1,10 @@
 # Leonardo Hartmann 👨🏼‍💻
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-💻 Profissional de **Tecnologia da Informação**, atuando com **Suporte Técnico e Sistemas**  
-🚀 Cursando **Pós-Graduação** em **Desenvolvimento Full Stack** .</br>
-📚 Em formação contínua por meio de cursos e estudos práticos.</br>
-🛠️ Experiência com **suporte a usuários**, **infraestrutura**, **redes** e **servidores de banco de dados**  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+- 💻 Profissional de **Tecnologia da Informação**, atuando com **Suporte Técnico e Sistemas**  
+- 🚀 Cursando **Pós-Graduação** em **Desenvolvimento Full Stack** .</br>
+- 📚 Em formação contínua por meio de cursos e estudos práticos.</br>
+- 🛠️ Experiência com **suporte a usuários**, **infraestrutura**, **redes** e **servidores de banco de dados**  
 
 ## Linguagns e Ferramentas 💻
 <div style="display: inline">
