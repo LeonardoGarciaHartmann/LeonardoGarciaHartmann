@@ -8,7 +8,7 @@
 
 ## Linguagns e Ferramentas 💻
 <div style="display: inline">
-  <img style="padding-right:5" align="center" alt="html" src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=html&logoColor=white" />
+  <img style="padding-right:5" align="center" alt="html" src="https://img.shields.io/badge/html-3366CC?style=for-the-badge&logo=html&logoColor=white" />
   <img style="padding-right:5" align="center" alt="css" src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" />
   <img style="padding-right:5" align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img style="padding-right:5" align="center" alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
