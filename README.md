@@ -19,6 +19,6 @@
 
 <div>
   <a href="https://github.com/LeonardoGarciaHartmann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGarciaHartmann&show_icons=true&theme=radical"/>  
+    <img height="180em" src="https://github-readme-stats-seven-black-92.vercel.app/api?username=LeonardoGarciaHartmann&show_icons=true&theme=radical"/>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGarciaHartmann&layout=compact&langs_count=7&theme=radical"/> 
 </div>
