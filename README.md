@@ -12,7 +12,7 @@
   <img style="padding-right:5" align="center" alt="css" src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" />
   <img style="padding-right:5" align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img style="padding-right:5" align="center" alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img style="padding-right:5" align="center" alt="Node.js" src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img style="padding-right:5" align="center" alt="Node.js" src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 ## GitHub Stats ⚡
